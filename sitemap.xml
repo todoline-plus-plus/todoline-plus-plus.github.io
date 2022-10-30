@@ -2,49 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/20211007/off-line/</loc>
+    <loc>http://todoline-plus-plus.github.io/20221022/How-it-works/</loc>
     
-    <lastmod>2021-10-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/20211007/record%20-progress/</loc>
-    
-    <lastmod>2021-10-07</lastmod>
+    <lastmod>2022-10-30</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/20211007/tomato-clock/</loc>
+    <loc>http://todoline-plus-plus.github.io/20221024/download-page/</loc>
     
-    <lastmod>2021-10-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/20211007/build-habits/</loc>
-    
-    <lastmod>2021-10-07</lastmod>
+    <lastmod>2022-10-24</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/20211007/to-do-app/</loc>
+    <loc>http://todoline-plus-plus.github.io/20221022/Any-else/</loc>
     
-    <lastmod>2021-10-07</lastmod>
+    <lastmod>2022-10-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://todoline-plus-plus.github.io/20221022/Why-we-need-TodoLine-plus-plus/</loc>
+    
+    <lastmod>2022-10-23</lastmod>
     
   </url>
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2022-01-06</lastmod>
+    <loc>http://todoline-plus-plus.github.io/</loc>
+    <lastmod>2022-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>http://todoline-plus-plus.github.io/tags/todoline/</loc>
+    <lastmod>2022-10-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://todoline-plus-plus.github.io/categories/TodoLine/</loc>
+    <lastmod>2022-10-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
