@@ -6,5 +6,11 @@ function disablePostTitleLink(){
   $(".post-title a").attr("href", "javascript:;");
 }
 
+function disablePostConverLink(){
+  $("#post .post-cover").attr("href", "javascript:;");
+  $("#post .post-cover").attr("target", "_self");
+}
+
 
 disablePostTitleLink();
+disablePostConverLink();
